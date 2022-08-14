@@ -1,4 +1,11 @@
 body {
-    background: blue;
+    background: url(images/background.jpg) center no-repeat;
+    background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    color: white;
   }
-  
+#content {
+    padding: 20px;
+    background: rgba(182, 137, 137, 0.85);
+}  
